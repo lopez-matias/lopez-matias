@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmlopeznunez@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lopezmatias)
 
 </div>
 
@@ -89,5 +88,20 @@ Today I work at the intersection of **data analytics and sports** — building p
 | 🏟️ CAP — Football Performance Analyst | CONMEBOL | 2024 |
 | 🗄️ Advanced SQL & Databases | Udemy | 2023 |
 
+---
+## 📊 GitHub Stats
 
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lopez-matiasw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopez-matias&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+---
+
+<div align="center">
+
+*"The goal is to turn data into information, and information into insight."*
+
+⚽ · 📊 · 🇺🇾
+
+</div>
 ---

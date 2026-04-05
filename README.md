@@ -89,13 +89,6 @@ Today I work at the intersection of **data analytics and sports** — building p
 | 🗄️ Advanced SQL & Databases | Udemy | 2023 |
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lopez-matiasw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopez-matias&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
----
 
 <div align="center">
 

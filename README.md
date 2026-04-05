@@ -1,78 +1,125 @@
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=40&duration=5050&pause=1000&color=139EFF&center=true&vCenter=true&width=1050&lines=Hi!+I'm+Matias+Lopez;Data+Analyst;Sports+Analytics;Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" />
-</a>
+<div align="center">
 
-## 🙋🏻‍♂️ About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=38&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1050&lines=Hi%2C+I'm+Matias+Lopez+%F0%9F%91%8B;Data+Analyst+%7C+Sports+Analytics;Football+brought+me+to+data.;Data+brought+me+to+technology." alt="Typing SVG" />
 
-- ⚽ Football brought me to data. Data brought me to technology.
-- 📊 Data Analyst with 1+ year of formal experience in corporate environments — turning raw data into decisions that move the needle.
-- 🏟️ CONMEBOL Certified Football Performance Analyst — actively building projects in Sports Analytics using real match data.
-- ⚙️ I automate repetitive workflows using Python, Power Automate and n8n — because good analysts don't do things twice.
-- 🎓 Computer Engineering student at Universidad de la República (UdelaR), Uruguay.
+<br/>
 
-
-## 💻 Tech Stack
-```python
-class Toolbox:
-    def __init__(self):
-        self.languages = [
-            "Python 🐍",
-            "SQL 🧠",
-            "DAX",
-            "VBA (Excel Macros)"
-        ]
-        self.libraries = [
-            "Pandas",
-            "NumPy",
-            "Matplotlib",
-            "Seaborn",
-            "mplsoccer",      # ← agregar, es la librería estándar de Sports Analytics
-            "OpenPyXL",
-            "XlsxWriter"
-        ]
-        self.data_tools = [
-            "Power BI (Desktop & Service) 📊",
-            "Excel Advanced",
-            "Tableau",
-            "Power Query",
-            "Looker Studio",
-            "StatsBomb Data 🏟️"  # ← agregar
-        ]
-        self.automation = [
-            "Python scripting",
-            "VBA",
-            "Power Automate",
-            "n8n",             # ← agregar
-            "APIs (Requests)"
-        ]
-        self.databases = [
-            "Microsoft SQL Server",
-            "MySQL",
-            "PostgreSQL"
-        ]
-        self.version_control = [
-            "Git",
-            "GitHub"
-        ]
-        self.environments = [
-            "Windows",
-            "VS Code",
-            "Jupyter Notebook"
-        ]
-        self.soft_skills = [
-            "Data storytelling 🧾",
-            "Sports domain knowledge ⚽",
-            "Problem-solving mindset 🔍",
-            "Business acumen 💼"
-        ]
-```
-## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmlopeznunez@gmail.com)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
-&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmlopeznunez@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lopezmatias)
 
+</div>
 
+---
 
+## ⚡ Who I am
 
+```python
+matias = {
+    "name"       : "Matías López",
+    "location"   : "Montevideo, Uruguay 🇺🇾",
+    "role"       : ["Data Analyst", "Sports Analytics"],
+    "education"  : "Computer Engineering @ UdelaR",
+    "certified"  : ["CONMEBOL · Football Performance Analyst",
+                    "Coderhouse · Data Analytics (Top 10%)",
+                    "Coderhouse · Business Analytics",
+                    "Cisco · Introduction to Cybersecurity"],
+    "experience" : "1+ year formal data experience @ Berkes",
+    "open_to"    : ["Data Analytics roles", "Sports Analytics roles",
+                    "Remote & hybrid opportunities"],
+    "origin_story": "Football brought me to data. Data brought me to technology."
+}
+```
+
+---
+
+## 🏟️ The Story
+
+I didn't get into data through a textbook.
+
+I got into it through **football** — trying to understand the game deeper, beyond what the eye can see. That curiosity led me to the **CONMEBOL Football Performance Analyst certification**, and from there, to Python, SQL, Power BI, and everything else.
+
+Today I work at the intersection of **data analytics and sports** — building pipelines, automating reports, and creating dashboards that turn raw numbers into real decisions. Whether it's a financial KPI or a tactical xG model, the mindset is the same: **data should drive action**.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Query
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Data & BI Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Python Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![mplsoccer](https://img.shields.io/badge/mplsoccer-38BDF8?style=for-the-badge&logo=python&logoColor=white)
+
+### Automation
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Sports Analytics
+![StatsBomb](https://img.shields.io/badge/StatsBomb_Data-1A1A2E?style=for-the-badge&logo=data&logoColor=38BDF8)
+![mplsoccer](https://img.shields.io/badge/mplsoccer-0F4C75?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack | Status |
+|--------|-------------|-------|--------|
+| [**FinTrack**](https://github.com/matiaslopez/fintrack) | Personal finance tracker with automated reporting and visual dashboards | Python · Excel · Power BI | ✅ Live |
+| **Copa América 2024 — Offensive Analysis** | End-to-end performance analysis using StatsBomb open data. xG, progressive passes, pressing metrics and tactical visualizations | Python · mplsoccer · StatsBomb · Power BI | 🔨 Building |
+| **Football Data Pipeline** | Automated data pipeline that ingests match data from a public API, processes it with Python and stores it in SQL for reporting | Python · SQL · Power Automate · n8n | 🔨 Building |
+| **U23 Scouting Dashboard** | Interactive scouting dashboard for South American U23 players — performance metrics, radar charts and comparisons | Tableau · SQL · Python | 📋 Planned |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=matiaslopez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaslopez&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| Certification | Institution | Year |
+|--------------|-------------|------|
+| 🏟️ CAP — Football Performance Analyst | CONMEBOL | 2024 |
+| 📊 Data Analytics — Top 10% | Coderhouse · Certified by Ualá | 2025 |
+| 📈 Business Analytics | Coderhouse · Certified by Rappi | 2024 |
+| 🗄️ Advanced SQL & Databases | Udemy | 2023 |
+| 🔒 Introduction to Cybersecurity | Cisco Networking Academy | 2025 |
+
+---
+
+<div align="center">
+
+*"The goal is to turn data into information, and information into insight."*
+
+⚽ · 📊 · 🇺🇾
+
+</div>

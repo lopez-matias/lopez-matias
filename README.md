@@ -17,14 +17,13 @@
 ```python
 matias = {
     "name"       : "Matías López",
-    "location"   : "Montevideo, Uruguay 🇺🇾",
+    "location"   : "Montevideo, Uruguay",
     "role"       : ["Data Analyst", "Sports Analytics"],
     "education"  : "Computer Engineering @ UdelaR",
-    "certified"  : ["CONMEBOL · Football Performance Analyst",
-                    "Coderhouse · Data Analytics (Top 10%)",
+    "certified"  : ["Coderhouse · Data Analytics",
                     "Coderhouse · Business Analytics",
-                    "Cisco · Introduction to Cybersecurity"],
-    "experience" : "1+ year formal data experience @ Berkes",
+                    "CONMEBOL · Football Performance Analyst",],
+    "experience" : "1+ year formal data experience",
     "open_to"    : ["Data Analytics roles", "Sports Analytics roles",
                     "Remote & hybrid opportunities"],
     "origin_story": "Football brought me to data. Data brought me to technology."
@@ -79,17 +78,6 @@ Today I work at the intersection of **data analytics and sports** — building p
 ![mplsoccer](https://img.shields.io/badge/mplsoccer-0F4C75?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=matiaslopez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaslopez&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🏅 Certifications
@@ -97,17 +85,9 @@ Today I work at the intersection of **data analytics and sports** — building p
 | Certification | Institution | Year |
 |--------------|-------------|------|
 | 📊 Data Analytics | Coderhouse · Certified by Ualá | 2025 |
-| 📈 Business Analytics - Top 10 | Coderhouse · Certified by Rappi | 2024 |
+| 📈 Business Analytics | Coderhouse · Certified by Rappi | 2024 |
 | 🏟️ CAP — Football Performance Analyst | CONMEBOL | 2024 |
 | 🗄️ Advanced SQL & Databases | Udemy | 2023 |
 
 
 ---
-
-<div align="center">
-
-*"The goal is to turn data into information, and information into insight."*
-
-⚽ · 📊 · 🇺🇾
-
-</div>

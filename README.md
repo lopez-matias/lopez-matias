@@ -81,18 +81,6 @@ Today I work at the intersection of **data analytics and sports** — building p
 </div>
 
 ---
-
-## 🚀 Projects
-
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| [**FinTrack**](https://github.com/matiaslopez/fintrack) | Personal finance tracker with automated reporting and visual dashboards | Python · Excel · Power BI | ✅ Live |
-| **Copa América 2024 — Offensive Analysis** | End-to-end performance analysis using StatsBomb open data. xG, progressive passes, pressing metrics and tactical visualizations | Python · mplsoccer · StatsBomb · Power BI | 🔨 Building |
-| **Football Data Pipeline** | Automated data pipeline that ingests match data from a public API, processes it with Python and stores it in SQL for reporting | Python · SQL · Power Automate · n8n | 🔨 Building |
-| **U23 Scouting Dashboard** | Interactive scouting dashboard for South American U23 players — performance metrics, radar charts and comparisons | Tableau · SQL · Python | 📋 Planned |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -108,11 +96,11 @@ Today I work at the intersection of **data analytics and sports** — building p
 
 | Certification | Institution | Year |
 |--------------|-------------|------|
+| 📊 Data Analytics | Coderhouse · Certified by Ualá | 2025 |
+| 📈 Business Analytics - Top 10 | Coderhouse · Certified by Rappi | 2024 |
 | 🏟️ CAP — Football Performance Analyst | CONMEBOL | 2024 |
-| 📊 Data Analytics — Top 10% | Coderhouse · Certified by Ualá | 2025 |
-| 📈 Business Analytics | Coderhouse · Certified by Rappi | 2024 |
 | 🗄️ Advanced SQL & Databases | Udemy | 2023 |
-| 🔒 Introduction to Cybersecurity | Cisco Networking Academy | 2025 |
+
 
 ---
 

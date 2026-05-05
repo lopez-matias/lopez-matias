@@ -101,16 +101,3 @@ matias = {
 | 🗄️ SQL & Databases | Udemy | 2023 |
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lopez-matias&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopez-matias&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lopez-matias&color=38BDF8&style=flat-square" alt="Profile views" />
-</div>

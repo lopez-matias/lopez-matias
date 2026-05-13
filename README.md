@@ -28,7 +28,7 @@
 
 ## 💼 Work Experience
 
-### Analista de Datos — Berkes
+### Data Analytics — Berkes
 **Nov 2024 – Apr 2026 · Montevideo, Uruguay**
 
 Data analyst role focused on building BI solutions and automating operational and financial processes.
@@ -40,7 +40,7 @@ Data analyst role focused on building BI solutions and automating operational an
 
 ---
 
-### Encargado de Tienda — Despegado
+### Store Manager — Despegado
 **Apr 2022 – Oct 2024 · Montevideo, Uruguay**
 
 Promoted to Store Manager within the first 6 months. Led internal digitalization projects from scratch with no prior IT infrastructure in place.

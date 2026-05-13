@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=36&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1050&lines=Hi%2C+I'm+Matias+Lopez+%F0%9F%91%8B;Automation+%26+Data+Analyst;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Process+Optimization;Building+data+pipelines+that+actually+ship." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=36&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1050&lines=Hi%2C+I'm+Matias+Lopez+%F0%9F%91%8B;Automation+%26+Data+Analyst;2%2B+yrs+%C2%B7+Data+Pipelines+%C2%B7+Automations+%C2%B7+BI;Turning+raw+data+into+systems+that+work." alt="Typing SVG" />
 
   <br/>
 
@@ -15,23 +15,25 @@
 
 ## ⚡ About Me
 
-**Automation & Data Analyst** based in Montevideo, Uruguay 🇺🇾, currently working at Berkes and studying Computer Engineering at UdelaR. I build data pipelines, automate repetitive processes, and turn raw data into dashboards that help teams make faster decisions.
+**Automation & Data Analyst** with 2+ years of professional experience building data pipelines, BI dashboards, and process automations for real businesses in Montevideo, Uruguay 🇺🇾.
+
+At **Berkes** I build Power BI solutions and Python automations that reduce operational overhead. Before that, at **Despegado** I led the first ERP implementation across multiple branches — improving inventory accuracy by 75% with no prior IT infrastructure in place. I work at the intersection of data, automation, and software: building systems that eliminate manual work and surface the insights that drive decisions.
 
 - 📊 **Focus:** Data Analytics · Process Automation · Business Intelligence
-- 🔭 **Future goals:** Backend development · Cybersecurity
-- 🎓 **Education:** Computer Engineering @ Universidad de la República (2024 →)
+- 🔭 **Growing into:** Backend Development · Cybersecurity
 - 🌐 **Languages:** Spanish (native) · English (full professional)
 - 🌍 **Portfolio:** [matudev.com](https://matudev.com)
 - 💬 **Open to:** Remote & hybrid opportunities
+- 🎓 **Also:** Computer Engineering @ Universidad de la República
 
 ---
 
 ## 💼 Work Experience
 
-### Data Analytics — Berkes
+### Data Analyst — Berkes
 **Nov 2024 – Apr 2026 · Montevideo, Uruguay**
 
-Data analyst role focused on building BI solutions and automating operational and financial processes.
+BI and automation role focused on building data solutions that improve operational and financial decision-making.
 
 - Automated data analysis workflows with **Excel VBA**, cutting operational time by **15%**
 - Participated in the migration of financial reports to **Power BI** alongside the IT team
@@ -40,10 +42,10 @@ Data analyst role focused on building BI solutions and automating operational an
 
 ---
 
-### Store Manager — Despegado
+### Store Manager & Data Lead — Despegado
 **Apr 2022 – Oct 2024 · Montevideo, Uruguay**
 
-Promoted to Store Manager within the first 6 months. Led internal digitalization projects from scratch with no prior IT infrastructure in place.
+Promoted to Store Manager within the first 6 months. Owned all internal digitalization projects from scratch — no prior IT infrastructure, no playbook.
 
 - Led the **first ERP implementation** across multiple branches, centralizing inventory control
 - Migrated and structured data from scattered Excel files into an integrated management system
@@ -163,9 +165,13 @@ Promoted to Store Manager within the first 6 months. Led internal digitalization
 ---
 
 <div align="center">
-  <i>Open to data analytics, automation, and remote opportunities — feel free to reach out.</i>
+  <i>Available for data analytics, automation, and remote work — let's talk.</i>
   <br/><br/>
   <a href="https://www.linkedin.com/in/lopez-matias/">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://matudev.com">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>

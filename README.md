@@ -1,177 +1,185 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=36&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1050&lines=Hi%2C+I'm+Matias+Lopez+%F0%9F%91%8B;Automation+%26+Data+Analyst;2%2B+yrs+%C2%B7+Data+Pipelines+%C2%B7+Automations+%C2%B7+BI;Turning+raw+data+into+systems+that+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=36&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1050&lines=Hi%2C+I'm+Matias+Lopez+%F0%9F%91%8B;Automation+%26+Data+Analyst;4%2B+Years+%C2%B7+Automation+%C2%B7+BI+%C2%B7+Data+Workflows;Building+systems+that+reduce+operational+chaos." alt="Typing SVG" />
 
   <br/>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-matudev.com-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://matudev.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmlopeznunez@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lopez-matias)
+[![Portfolio](https://img.shields.io/badge/Portfolio-matudev.com-38BDF8?style=for-the-badge\&logo=vercel\&logoColor=white)](https://matudev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mmlopeznunez@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lopez-matias)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=lopez-matias&color=38BDF8&style=flat-square&label=Profile+Views)
+  <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=lopez-matias\&color=38BDF8\&style=flat-square\&label=Profile+Views)
+
 </div>
 
 ---
 
-## ⚡ About Me
+# ⚡ About Me
 
-**Automation & Data Analyst** with 2+ years of professional experience building data pipelines, BI dashboards, and process automations for real businesses in Montevideo, Uruguay 🇺🇾.
+Automation & Data Analyst with 4+ years of professional experience building systems that improve operations, reduce manual work, and turn business data into actionable insights.
 
-At **Berkes** I build Power BI solutions and Python automations that reduce operational overhead. Before that, at **Despegado** I led the first ERP implementation across multiple branches — improving inventory accuracy by 75% with no prior IT infrastructure in place. I work at the intersection of data, automation, and software: building systems that eliminate manual work and surface the insights that drive decisions.
+Currently working at **Berkes**, developing Power BI dashboards, SQL reporting pipelines, and Python automations for operational and financial analysis. Previously at **Despegado**, I led the company's first ERP implementation across multiple branches — improving inventory accuracy by **75%** through process redesign and digitalization.
 
-- 📊 **Focus:** Data Analytics · Process Automation · Business Intelligence
-- 🔭 **Growing into:** Backend Development · Cybersecurity
-- 🌐 **Languages:** Spanish (native) · English (full professional)
-- 🌍 **Portfolio:** [matudev.com](https://matudev.com)
-- 💬 **Open to:** Remote & hybrid opportunities
-- 🎓 **Also:** Computer Engineering @ Universidad de la República
+My work sits at the intersection of:
+
+* 📊 Business Intelligence
+* ⚙️ Process Automation
+* 🐍 Data Engineering & ETL
+* 🏪 Operational Optimization for SMBs
+
+### Current Focus
+
+* Python automation
+* Power BI & SQL analytics
+* n8n workflows
+* ETL pipelines
+* Backend systems with FastAPI & PostgreSQL
+
+### Additional Info
+
+* 🌍 Montevideo, Uruguay
+* 🌐 Spanish (native) · English (professional)
+* 🎓 Computer Engineering @ Universidad de la República
+* 💼 Open to freelance projects and remote opportunities
 
 ---
 
-## 💼 Work Experience
+# 💼 Professional Experience
 
-### Data Analyst — Berkes
+## Data Analyst & BI Reporter — Berkes
+
 **Nov 2024 – Apr 2026 · Montevideo, Uruguay**
 
-BI and automation role focused on building data solutions that improve operational and financial decision-making.
+BI and automation role focused on improving operational and financial decision-making.
 
-- Automated data analysis workflows with **Excel VBA**, cutting operational time by **15%**
-- Participated in the migration of financial reports to **Power BI** alongside the IT team
-- Developed and optimized KPI tracking dashboards for real-time data monitoring
-- Built data-driven solutions to support operational efficiency and management decisions
+* Automated reporting and operational workflows, reducing manual processing time by **15%**
+* Built Power BI dashboards for KPI tracking and management reporting
+* Developed SQL-based reporting pipelines for business intelligence workflows
+* Collaborated with IT and finance teams during reporting modernization initiatives
 
 ---
 
-### Store Manager & Data Lead — Despegado
+## Store Manager & ERP Implementation Lead — Despegado
+
 **Apr 2022 – Oct 2024 · Montevideo, Uruguay**
 
-Promoted to Store Manager within the first 6 months. Owned all internal digitalization projects from scratch — no prior IT infrastructure, no playbook.
+Promoted to Store Manager within the first 6 months. Led internal digitalization initiatives from scratch in a company with no prior IT infrastructure.
 
-- Led the **first ERP implementation** across multiple branches, centralizing inventory control
-- Migrated and structured data from scattered Excel files into an integrated management system
-- Improved **inventory accuracy by 75%** through process redesign and digitalization
-- Built **SQL queries and Power BI dashboards** for management reporting and operational analysis
-- Automated internal reports to reduce manual workload across the team
-
----
-
-## 🚧 Featured Projects
-
-### 🤖 [automate-report-bot](https://github.com/lopez-matias/automate-report-bot)
-> Automated pipeline that pulls data from any source, builds formatted Excel or PDF reports, and delivers them by email on a schedule — zero human involvement after setup.
-
-**Stack:** Python · Pandas · OpenPyXL · ReportLab · YAML scheduling · SMTP / SendGrid · Docker · PostgreSQL
-
-- YAML-driven configuration — add a new report without touching code
-- Supports PostgreSQL, CSV, REST APIs, and Excel as data sources
-- Transformation layer: sort, filter, group-by, currency formatting, WoW % change, KPI summaries
-- Dual delivery: SMTP (Gmail / Outlook) or SendGrid for production
-- Fully containerized with Docker Compose; PostgreSQL seeded automatically
-- Pytest suite with 15+ tests
+* Led the **first ERP implementation** across multiple retail branches
+* Centralized inventory control and operational reporting workflows
+* Improved **inventory accuracy by 75%** through process redesign and digitalization
+* Built SQL queries and Power BI dashboards for operational analysis
+* Automated internal reports to reduce repetitive manual tasks
 
 ---
 
-### ⚽ [world-tracker-album](https://github.com/lopez-matias/world-tracker-album)
-> Mobile-first web app to track your FIFA World Cup 2026 Panini sticker collection across all 50 sections and 1,000+ stickers.
+# 🚧 Featured Projects
 
-**Stack:** FastAPI · Python 3.11 · SQLAlchemy · JWT (HTTP-only cookies) · SQLite / PostgreSQL (Neon) · Vanilla JS · Vercel
+## 🤖 [automate-report-bot](https://github.com/lopez-matias/automate-report-bot)
 
-- Full Panini album structure: FIFA intro, 48 national teams, Coca-Cola closing section
-- Per-country dynamic backgrounds derived from national flag colors
-- User accounts with JWT auth, bcrypt hashing, and HTTP-only cookie sessions
-- Real-time global and per-country progress tracking
-- Zero-config deploy on Vercel with PostgreSQL via Neon
+Automated reporting pipeline that extracts data, generates formatted Excel/PDF reports, and delivers them automatically by email.
+
+### Stack
+
+Python · Pandas · PostgreSQL · Docker · ReportLab · OpenPyXL · SMTP · GitHub Actions
+
+### Highlights
+
+* YAML-driven report configuration
+* Multi-source ingestion: PostgreSQL, CSV, REST APIs, Excel
+* Automated KPI summaries and formatted business reports
+* Scheduled delivery via SMTP or SendGrid
+* Fully containerized with Docker Compose
+* Pytest suite with automated validation
 
 ---
 
-## 📊 GitHub Stats
+## 🛒 [competitor-price-monitor](https://github.com/lopez-matias/competitor-price-monitor)
+
+Competitor monitoring platform that tracks product prices across ecommerce websites using scraping, automation, and AI-assisted analysis.
+
+### Stack
+
+Python · Playwright · Streamlit · PostgreSQL · SMTP · Docker · LLM APIs
+
+### Highlights
+
+* Automated competitor price monitoring workflows
+* Browser automation with Playwright
+* AI-assisted product matching and price analysis
+* Email alerts for price changes and competitor movements
+* Streamlit dashboard for monitoring and reporting
+* Built for retail and ecommerce operational intelligence
+
+---
+
+# 🛠️ Core Tech Stack
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopez-matias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopez-matias&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+### Analytics & Automation
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lopez-matias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+### Backend & Databases
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
 
-## 🛠️ Tech Stack
+### DevOps & Tooling
 
-<div align="center">
-
-### Data & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Automation & ETL
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
-![VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Security *(learning)*
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=green)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E3170A?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
 ---
 
-## 🏅 Certifications
+# 🏅 Certifications
 
-| Certification | Institution | Year |
-|---|---|---|
+| Certification                    | Institution              | Year |
+| -------------------------------- | ------------------------ | ---- |
 | 🔐 Introduction to Cybersecurity | Cisco Networking Academy | 2025 |
-| 📊 Data Analytics | Coderhouse | 2025 |
-| 📈 Business Analytics | Coderhouse | 2024 |
-| 🗄️ SQL & Databases | Udemy | 2023 |
+| 📊 Data Analytics                | Coderhouse               | 2025 |
+| 📈 Business Analytics            | Coderhouse               | 2024 |
+| 🗄️ SQL & Databases              | Udemy                    | 2023 |
 
 ---
 
-## 📈 Contribution Activity
-
+# 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lopez-matias&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=lopez-matias&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Available for data analytics, automation, and remote work — let's talk.</i>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/lopez-matias/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://matudev.com">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
+<i>Helping businesses automate reporting, operations, and data workflows.</i>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/lopez-matias/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://matudev.com">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://www.upwork.com/freelancers/~0161cf968fbeba4507">
+  <img src="https://img.shields.io/badge/Upwork_Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
 </div>

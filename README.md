@@ -1,15 +1,15 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=34&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1050&lines=Hi%2C+I'm+Mat%C3%ADas+L%C3%B3pez;Business+Intelligence+%26+Database+Professional;Power+BI+%C2%B7+SQL+Server+%C2%B7+Python+%C2%B7+ETL"
-    alt="Matías López — Business Intelligence, SQL Server, Python and ETL"
+    src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=34&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1050&lines=Hi%2C+I'm+Mat%C3%ADas+L%C3%B3pez;Business+Intelligence+Analyst+%26+DBA;SQL+Server+%C2%B7+Power+BI+%C2%B7+Python+%C2%B7+ETL;Data+%C2%B7+Databases+%C2%B7+Automation+%C2%B7+Integrations"
+    alt="Matías López — Business Intelligence Analyst and DBA"
   />
 
   <br/>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-matudev.com-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://matudev.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmlopeznunez@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-matudev.com-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matudev.com/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mat%C3%ADas_L%C3%B3pez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopeznunezmati@gmail.com)
 
   <br/>
 
@@ -21,59 +21,70 @@
 
 ## About me
 
-I am a **Business Intelligence and database professional** with 4+ years of experience transforming business requirements into reliable data solutions.
+I am a **Business Intelligence Analyst and Database Administrator** with 4+ years of experience developing, administering and improving data solutions for operational and strategic processes.
 
-My work covers the complete data lifecycle:
+I work across different stages of the data lifecycle:
 
-- Designing and maintaining ETL processes with Python and SQL.
-- Building dashboards and analytical models with Power BI.
-- Managing SQL Server databases, queries, historical data and permissions.
-- Administering reporting environments and data access.
-- Developing internal tools, integrations and automation scripts.
+- Gathering requirements and understanding business processes.
+- Extracting, transforming and validating data with SQL, Python and ETL tools.
+- Designing relational models, indicators and analytical datasets.
+- Building and maintaining dashboards and reports with Power BI.
+- Administering SQL Server databases, DWH structures, permissions and analytical environments.
+- Automating recurring tasks and integrating files, APIs and databases.
 
-I am currently pursuing a **Computer Engineering degree at Universidad de la República**, strengthening my background in software development, database design and systems architecture.
+My experience includes developing data pipelines that reduced processing times by approximately **15%** and participating in a data migration that contributed to a **75% improvement in commercial inventory accuracy**.
+
+I currently work as a **Business Intelligence Analyst / DBA at Tienda Inglesa** and study **Computer Engineering at Universidad de la República**.
 
 - Based in Montevideo, Uruguay
 - Spanish: Native
-- English: Professional working proficiency
-- Available for remote freelance projects through [MatuDev](https://matudev.com)
+- English: Full professional proficiency
+- Available for remote freelance projects through [MatuDev](https://www.matudev.com/)
 
 ---
 
 ## What I work with
 
-### Business Intelligence
+### Business Intelligence and analytics
 
 - Power BI
 - DAX
 - Power Query
-- Apache Superset
-- SQL Server Analysis Services
 - Data modeling
 - KPI and dashboard design
+- Report maintenance and optimization
+- Analytical metrics and cubes
 - Report governance and permissions
 
-### Data engineering and automation
-
-- Python
-- SQL and T-SQL
-- ETL pipelines
-- Linux and Ubuntu
-- REST APIs
-- Scheduled processes
-- Data validation
-- Logging and error handling
-
-### Databases and development
+### Databases and data management
 
 - SQL Server
 - PostgreSQL
-- Stored procedures
+- SQL and T-SQL
+- DWH tables and structures
+- Complex queries, views and stored procedures
 - Query optimization
-- Historical data management
+- Data cleansing and validation
+- Roles, permissions and access management
+
+### Data integration and automation
+
+- Python
+- ETL pipelines
+- Pentaho Data Integration
+- Linux and Ubuntu
+- Scheduled jobs and processes
+- REST APIs
+- Files and database integrations
+- Logging, monitoring and error handling
+
+### Development and tooling
+
 - FastAPI
 - Docker
 - Git and GitHub
+- Visual Studio
+- Jira
 
 ---
 
@@ -83,15 +94,17 @@ I am currently pursuing a **Computer Engineering degree at Universidad de la Rep
 
 **Jun 2026 – Present · Montevideo, Uruguay**
 
-Working with Business Intelligence platforms, SQL Server databases, ETL processes, reporting environments and database administration in an enterprise setting.
+I administer databases and Business Intelligence solutions, helping ensure the quality, availability and daily update of information used by different business areas.
 
-Main areas of responsibility:
+Main responsibilities:
 
-- Power BI Service and Apache Superset administration.
-- SQL Server maintenance and query optimization.
-- Automated ETL processes using Python, SQL and Linux.
-- User roles, permissions and analytical environment governance.
-- SSAS cube maintenance and administration.
+- Maintaining DWH tables and structures in SQL Server, including data controls, validation and adjustments.
+- Developing complex SQL queries and performing data insertion, update and deletion operations.
+- Cleaning, debugging and correcting inconsistent or duplicated data.
+- Running and monitoring ETL processes with Pentaho on Linux to keep data sources updated.
+- Maintaining and optimizing Power BI reports, data models, metrics and visualizations.
+- Managing user permissions, access requests and analytical roles.
+- Maintaining analytical cubes, roles and metrics using Visual Studio.
 
 > Current responsibilities are described at a general level to preserve employer confidentiality.
 
@@ -101,10 +114,12 @@ Main areas of responsibility:
 
 **Nov 2024 – May 2026 · Montevideo, Uruguay**
 
-- Gathered requirements from business areas and translated them into strategic dashboards and executive KPIs.
-- Developed ETL pipelines using Python and SQL, reducing data processing time by approximately 15%.
-- Managed platform permissions, user access and report governance.
-- Improved the reliability and continuous maintenance of critical reports.
+- Participated in the development and administration of Business Intelligence solutions, from data integration to report maintenance.
+- Developed and optimized ETL pipelines with Python and SQL, reducing processing times by approximately 15%.
+- Designed SQL queries, views and data models for operational and strategic reports.
+- Built and maintained Power BI dashboards and KPIs for different business areas.
+- Managed platform permissions and user access, contributing to data governance and security.
+- Documented processes, business rules and analytical data structures.
 
 ---
 
@@ -112,10 +127,12 @@ Main areas of responsibility:
 
 **Apr 2022 – Oct 2024 · Montevideo, Uruguay**
 
-- Led historical data migration and technical configuration for a multi-branch ERP implementation.
-- Improved commercial inventory accuracy by approximately 75%.
-- Created SQL queries and Power BI dashboards for sales, stock rotation and demand monitoring.
-- Provided analytical findings to support operational and executive decisions.
+- Combined store management responsibilities with commercial analysis and Business Intelligence tasks.
+- Led the historical data migration and functional configuration of a multi-branch system, contributing to a 75% improvement in commercial inventory accuracy.
+- Developed Power BI reports and dashboards connected to ERP and SQL data sources.
+- Analyzed sales, demand, product rotation and stock levels.
+- Identified inconsistencies and improvement opportunities in operational processes.
+- Presented findings and recommendations to management to support decision-making.
 
 ---
 
@@ -123,22 +140,24 @@ Main areas of responsibility:
 
 ### MatuDev
 
-My professional website for freelance services related to:
+[MatuDev](https://www.matudev.com/) is my professional website for freelance data and automation services, including:
 
-- Business Intelligence and dashboards.
-- Process automation and ETL.
-- SQL Server and database optimization.
-- Internal applications and integrations.
+- Business Intelligence and Power BI solutions.
+- Database design, administration and SQL optimization.
+- ETL pipelines and data processing.
+- Integrations between files, APIs and databases.
+- Data consulting and process analysis.
+- Automation of controls, alerts, loads and scheduled tasks.
 
-[Visit matudev.com](https://matudev.com)
+[Visit MatuDev](https://www.matudev.com/)
 
 ### World Tracker Album
 
-A personal software project focused on application development, data modeling and user interaction.
+A web application for tracking progress in a **2026 World Cup sticker album**. It focuses on application development, data modeling and user interaction.
 
 [View repository](https://github.com/lopez-matias/world-tracker-album)
 
-> Additional data, automation and SQL projects are currently being prepared for publication.
+> Additional data, automation and SQL projects are being prepared for publication.
 
 ---
 
@@ -153,19 +172,21 @@ A personal software project focused on application development, data modeling an
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Databases and infrastructure
+### Databases and ETL
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-ETL-005CA9?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Development and tooling
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
@@ -177,7 +198,7 @@ A personal software project focused on application development, data modeling an
 
 **Computer Engineering**  
 Universidad de la República — UdelaR  
-Started in 2024
+Started in August 2024
 
 ### Certifications
 
@@ -205,11 +226,11 @@ Started in 2024
 
 <div align="center">
 
-**Helping businesses improve reporting, databases and data workflows.**
+**Turning data, databases and recurring processes into reliable solutions.**
 
 <br/><br/>
 
-[![Visit MatuDev](https://img.shields.io/badge/Visit_MatuDev-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://matudev.com)
+[![Visit MatuDev](https://img.shields.io/badge/Visit_MatuDev-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matudev.com/)
 [![View LinkedIn](https://img.shields.io/badge/View_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
 
 </div>

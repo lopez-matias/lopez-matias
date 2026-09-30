@@ -24,15 +24,15 @@
 
 ### BI / DBA | Tienda Inglesa
 
-I work on tuning and optimizing database structures, data warehouses, and SSAS cubes, as well as developing and maintaining ETL processes for data loading and transformation in Linux environments, implementing reporting and business intelligence solutions, and creating internal business tools to address various operational and business needs related to the field.
+The responsibilities of the position included the optimization and maintenance of database structures, data warehouses, and SSAS cubes, as well as the development and maintenance of ETL processes for data loading and transformation in Linux environments. In addition, I contributed to the development of reporting and business intelligence solutions, and I designed internal business tools to support various operational and business needs.
 
 ### Data Analyst & BI | Berkes
 
-I focused on creating reports and analyzing data, as well as developing automation tools using technologies such as Python, Microsoft Power Automate, and VBA, among others. I also participated in the implementation of new reporting tools and solutions to improve access to, analysis of, and presentation of information.
+The primary focus of the internship was on report development and data analysis, in addition to the construction of automation solutions utilizing technologies such as Python, Microsoft Power Automate, and Visual Basic for Applications (VBA). In addition, I contributed to the implementation of novel reporting tools and solutions designed to enhance access to information, facilitate analysis, and optimize data presentation.
 
 ### ERP Developer & DBA | Retail Company
 
-I worked on operational workflows, process improvement, and business data tasks related to day-to-day operations.
+The present author was involved in the optimization and implementation of an ERP system for stock control, invoicing, and inventory management across multiple branches. In addition, I contributed to the design, restructuring, and optimization of the underlying database. This was done to improve data organization and support the system's operational requirements.
 
 ---
 

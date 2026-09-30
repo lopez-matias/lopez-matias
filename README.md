@@ -1,51 +1,71 @@
 <div align="center">
 
-# Matías López
+# Hi I'm Matías López
 
-## Software · Databases · Data
+### Software · Backend · Web · Databases
 
-**I build software and data solutions for real business problems: internal systems, databases, reporting platforms and integrations.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-matudev.com-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matudev.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matías_López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
-[![Email](https://img.shields.io/badge/Email-Let's_talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopeznunezmati@gmail.com)
-
-Montevideo, Uruguay · Available for freelance and remote projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matudev.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopeznunezmati@gmail.com)
 
 </div>
 
-## Featured projects
+---
 
-| Project | Business problem | Main stack |
-|---|---|---|
-| **[StockFlow](https://github.com/lopez-matias/inventory_system)** | Inventory, warehouses, stock movements and operational control in one system. | FastAPI · PostgreSQL · SQLAlchemy |
-| **[OrangeFlow](https://github.com/lopez-matias/taskflow-admin)** | Internal requests, assignments, priorities, audit history and team dashboards. | FastAPI · PostgreSQL · Docker |
-| **[Pulso PyME](https://github.com/lopez-matias/comercial-reportings)** | CSV sales ingestion, validation, reporting, interactive dashboards and exports. | Python · PostgreSQL · Reporting |
-| **[NODO](https://github.com/lopez-matias/order_management)** | Customers, orders, historical pricing, payments and commercial metrics. | FastAPI · PostgreSQL · Alembic |
+# tech_stack
 
-Every project uses fictional demonstration data and represents a portfolio implementation, not a claim of production use or client results.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,fastapi,spring,postgres,mysql,docker,git,linux" />
+</p>
 
-## What I can build
+---
 
-- **Internal software:** inventory, order, request, customer and task management systems.
-- **Databases:** relational design, SQL development, data quality and query optimization.
-- **Reporting and BI:** dashboards, KPIs, consolidated datasets and Power BI solutions.
-- **Integrations:** APIs, files, databases and automated business processes.
+# experience
 
-## Core technologies
+### BI / DBA | Tienda Inglesa
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+I work on tuning and optimizing database structures, data warehouses, and SSAS cubes, as well as developing and maintaining ETL processes for data loading and transformation in Linux environments, implementing reporting and business intelligence solutions, and creating internal business tools to address various operational and business needs related to the field.
 
-## About me
+### Data Analyst & BI | Berkes
 
-I work professionally in Business Intelligence and database administration while studying Computer Engineering at Universidad de la República. My background combines business operations, data and software development, which helps me translate operational problems into practical technical solutions.
+I focused on creating reports and analyzing data, as well as developing automation tools using technologies such as Python, Microsoft Power Automate, and VBA, among others. I also participated in the implementation of new reporting tools and solutions to improve access to, analysis of, and presentation of information.
 
-I develop freelance projects through **[MatuDev](https://www.matudev.com/)**. If your team relies on spreadsheets, repeated manual work or disconnected systems, tell me what you need to improve.
+### ERP Developer & DBA | Retail Company
 
-**[Start a conversation](https://www.matudev.com/#contacto)** · **[Contact me by email](mailto:lopeznunezmati@gmail.com)**
+I worked on operational workflows, process improvement, and business data tasks related to day-to-day operations.
+
+---
+
+# featured_projects
+
+### [StockFlow](https://github.com/lopez-matias/inventory_system)
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy`
+
+Inventory management system for products, warehouses, stock levels and stock movements.
+
+### [OrangeFlow](https://github.com/lopez-matias/taskflow-admin)
+`Python` `FastAPI` `PostgreSQL` `Docker`
+
+Internal request management system with assignments, priorities, statuses and audit history.
+
+### [NODO](https://github.com/lopez-matias/order_management)
+`Python` `FastAPI` `PostgreSQL` `Alembic`
+
+Business application for customers, products, orders, payments and pricing logic.
+
+### [Pulso PyME](https://github.com/lopez-matias/comercial-reportings)
+`Python` `PostgreSQL` `Pandas` `FastAPI`
+
+Data ingestion and reporting platform for importing, validating and consolidating operational data.
+
+---
+
+# contact
+
+<div align="center">
+
+[matudev.com](https://www.matudev.com/) ·
+[LinkedIn](https://www.linkedin.com/in/lopez-matias/) ·
+[Email](mailto:lopeznunezmati@gmail.com)
+
+</div>

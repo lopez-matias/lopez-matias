@@ -38,25 +38,23 @@ The present author was involved in the optimization and implementation of an ERP
 
 # featured_projects
 
-### [StockFlow](https://github.com/lopez-matias/inventory_system)
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy`
+### [CuentaClara](https://cuentaclara.matudev.com)
 
-Inventory management system for products, warehouses, stock levels and stock movements.
+`Personal Finance` `Web App` `Supabase`
 
-### [OrangeFlow](https://github.com/lopez-matias/taskflow-admin)
-`Python` `FastAPI` `PostgreSQL` `Docker`
+Personal finance application for tracking expenses, managing transactions and monitoring personal finances.
 
-Internal request management system with assignments, priorities, statuses and audit history.
+**[Live App →](https://cuentaclara.matudev.com)**
 
-### [NODO](https://github.com/lopez-matias/order_management)
-`Python` `FastAPI` `PostgreSQL` `Alembic`
+### [Other Projects](https://github.com/lopez-matias?tab=repositories)
 
-Business application for customers, products, orders, payments and pricing logic.
+`Backend` `APIs` `Databases` `Data` `Practice`
 
-### [Pulso PyME](https://github.com/lopez-matias/comercial-reportings)
-`Python` `PostgreSQL` `Pandas` `FastAPI`
+A collection of public repositories, technical projects and practice applications focused on backend development, databases, APIs, data and software engineering.
 
-Data ingestion and reporting platform for importing, validating and consolidating operational data.
+**[View repositories →](https://github.com/lopez-matias?tab=repositories)**
+
+---
 
 ---
 

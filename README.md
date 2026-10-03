@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi I'm Matías López
+# Hi, I'm Matías.
 
-### Software · Backend · Web · Databases
+`SOFTWARE · BACKEND · DATA`
+
+I build software, automations and integrations that turn complex processes into clear, useful tools.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matudev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
@@ -12,31 +14,7 @@
 
 ---
 
-# tech_stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,fastapi,spring,postgres,mysql,docker,git,linux" />
-</p>
-
----
-
-# experience
-
-### BI / DBA | Tienda Inglesa
-
-The responsibilities of the position included the optimization and maintenance of database structures, data warehouses, and SSAS cubes, as well as the development and maintenance of ETL processes for data loading and transformation in Linux environments. In addition, I contributed to the development of reporting and business intelligence solutions, and I designed internal business tools to support various operational and business needs.
-
-### Data Analyst & BI | Berkes
-
-The primary focus of the internship was on report development and data analysis, in addition to the construction of automation solutions utilizing technologies such as Python, Microsoft Power Automate, and Visual Basic for Applications (VBA). In addition, I contributed to the implementation of novel reporting tools and solutions designed to enhance access to information, facilitate analysis, and optimize data presentation.
-
-### ERP Developer & DBA | Retail Company
-
-The present author was involved in the optimization and implementation of an ERP system for stock control, invoicing, and inventory management across multiple branches. In addition, I contributed to the design, restructuring, and optimization of the underlying database. This was done to improve data organization and support the system's operational requirements.
-
----
-
-# featured_projects
+## 01 / PROJECTS.DIR
 
 ### [CuentaClara](https://cuentaclara.matudev.com)
 
@@ -50,20 +28,58 @@ Personal finance application for tracking expenses, managing transactions and mo
 
 `Backend` `APIs` `Databases` `Data` `Practice`
 
-A collection of public repositories, technical projects and practice applications focused on backend development, databases, APIs, data and software engineering.
+Public repositories, technical projects and practice applications focused on backend development, databases, APIs, data and software engineering.
 
 **[View repositories →](https://github.com/lopez-matias?tab=repositories)**
 
 ---
 
+## 02 / SERVICES.DB
+
+| | |
+|---|---|
+| **Backend** | APIs, application logic and services connected to databases. |
+| **Software / Web Apps** | Web applications and tools adapted to real processes. |
+| **Data** | SQL, ETL, reporting, KPIs and BI. |
+| **Integrations** | Connecting systems, APIs, files and automations. |
+
 ---
 
-# contact
+## 03 / STACK.INI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,fastapi,spring,postgres,mysql,docker,git,linux" />
+</p>
+
+---
+
+## 04 / ABOUT.MD
+
+Before thinking about a technology, I try to understand the process.
+
+I work across backend, web applications and databases, combining professional experience with my Computer Engineering studies in Uruguay to build clear, maintainable and useful solutions.
+
+---
+
+## work_experience.log
+
+**BI Analyst / DBA** — Tienda Inglesa
+Optimization and maintenance of databases, data warehouses and SSAS cubes. Development of ETL processes in Linux environments, reporting and BI solutions, and internal business tools.
+
+**Data Analyst / BI** — Berkes
+Report development and data analysis. Automation solutions with Python, Microsoft Power Automate and VBA, plus new reporting tools to improve access to information and data presentation.
+
+**ERP Developer / DBA** — Despegado
+Optimization and implementation of an ERP system for stock control, invoicing and inventory management across multiple branches, including database design, restructuring and optimization.
+
+---
+
+## 05 / CONTACT.API
 
 <div align="center">
+
+Got an idea, a process to automate or data to work with? Tell me the problem.
 
 [matudev.com](https://www.matudev.com/) ·
 [LinkedIn](https://www.linkedin.com/in/lopez-matias/) ·
 [Email](mailto:lopeznunezmati@gmail.com)
-
-</div>

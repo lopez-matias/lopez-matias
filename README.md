@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f19,100:273449&text=MATÍAS%20LÓPEZ&fontColor=ffffff&fontSize=44&fontAlignY=39&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%7C%20DATA&descAlignY=61&descSize=17&descColor=cbd5e1" width="100%" alt="Matías López - Software Developer" />
@@ -41,11 +40,13 @@ My work combines backend development, databases, business applications and data 
 
 I'm interested in creating maintainable systems, designing APIs, solving technical problems and building useful software.
 
+**Open for freelance and consulting projects** — one-off builds or ongoing monthly support. [See services ↓](#03--servicesdb)
+
 ---
 
 ## 02 / PROJECTS.DIR
 
-A selection of web applications and backend systems I've developed.
+Systems built for real business problems — inventory, orders, internal operations. Browse the live demos below, or see [what I can build for you ↓](#03--servicesdb).
 
 <table>
   <tr>
@@ -131,7 +132,7 @@ A selection of web applications and backend systems I've developed.
   </tr>
 </table>
 
-> StockFlow, NODO and OrangeFlow are portfolio projects using demonstration data. Public access is configured in read-only mode.
+> StockFlow, NODO and OrangeFlow are shown here with demonstration data so you can try them live. Happy to walk through the code or discuss adapting one of these to your own business.
 
 <div align="center">
 
@@ -141,7 +142,24 @@ A selection of web applications and backend systems I've developed.
 
 ---
 
-## 03 / WHAT_I_DO
+## 03 / SERVICES.DB
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>One-off development</h3>
+      A system built to order — inventory, orders, internal tools,
+      reporting — scoped and delivered as a single project.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Monthly support (subscription)</h3>
+      Ongoing maintenance and incremental development on a
+      system already in production, billed monthly.
+    </td>
+  </tr>
+</table>
+
+What goes into either one:
 
 <table>
   <tr>
@@ -169,6 +187,12 @@ A selection of web applications and backend systems I've developed.
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+**[Talk about your project ↓](#07--contactapi)**
+
+</div>
 
 ---
 
@@ -249,10 +273,10 @@ A selection of web applications and backend systems I've developed.
 
 ### Have a project in mind?
 
-I'm interested in backend systems, software development,
-data solutions and automation projects.
+Open for one-off development and monthly support — backend
+systems, internal tools, data and automation projects.
 
-**Let's connect.**
+**Tell me what you're trying to solve.**
 
 [![Website](https://img.shields.io/badge/MATUDEV.COM-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matudev.com/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)

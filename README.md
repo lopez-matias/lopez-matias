@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f19,100:273449&text=MATÍAS%20LÓPEZ&fontColor=ffffff&fontSize=44&fontAlignY=39&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%7C%20DATA&descAlignY=61&descSize=17&descColor=cbd5e1" width="100%" alt="Matías López - Software Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f19,100:273449&text=MATÍAS%20LÓPEZ&fontColor=ffffff&fontSize=44&fontAlignY=39&desc=INTEGRATIONS%20%7C%20AUTOMATION%20%7C%20APPLIED%20AI&descAlignY=61&descSize=17&descColor=cbd5e1" width="100%" alt="Matías López - Integrations, automation and applied AI" />
 
-### Building software that solves real problems.
+### I connect business systems and automate repetitive work.
 
-I design and develop backend systems, web applications, automations and data-driven solutions.
+Integrations, process automation and applied AI for small and mid-sized businesses in Uruguay, Argentina and Chile.
+
+**Conecto sistemas y automatizo el trabajo repetitivo de pymes en Uruguay, Argentina y Chile.**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matudev.com/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
@@ -18,14 +20,14 @@ I design and develop backend systems, web applications, automations and data-dri
 
 ```yaml
 name: Matías López
-role: Software Developer
-location: Uruguay
+role: Software Developer · Integrations & Automation
+location: Montevideo, Uruguay
+serving: [Uruguay, Argentina, Chile]
 focus:
-  - Backend Development
-  - Software Engineering
-  - Web Applications
-  - Databases & Data Engineering
-  - Integrations & Automation
+  - Systems Integration (ERP, e-commerce, APIs, databases)
+  - Process Automation (reports, reconciliation, alerts)
+  - Applied AI (document extraction, assistants on real data)
+  - Data Engineering & BI
 
 main_languages:
   - Python
@@ -34,19 +36,17 @@ main_languages:
   - SQL
 ```
 
-I'm a software developer and Computer Engineering student based in Uruguay.
+I'm a software developer and Computer Engineering student based in Montevideo, with 4+ years working on ERPs, data warehouses, ETL and integrations in retail and distribution.
 
-My work combines backend development, databases, business applications and data engineering. I focus on understanding how a process works before choosing the technologies needed to improve it.
+I help businesses stop copying data by hand between systems: I map one process, connect the tools it touches and leave it running with monitoring. AI is one more tool in that work, used where it saves real time, with a person reviewing.
 
-I'm interested in creating maintainable systems, designing APIs, solving technical problems and building useful software.
-
-**Open for freelance and consulting projects** — one-off builds or ongoing monthly support. [See services ↓](#03--servicesdb)
+**Open for client work** — fixed-price projects and monthly support plans. **Free 30-minute assessment.** [See services ↓](#03--servicesdb)
 
 ---
 
 ## 02 / PROJECTS.DIR
 
-Systems built for real business problems — inventory, orders, internal operations. Browse the live demos below, or see [what I can build for you ↓](#03--servicesdb).
+Live systems you can try with sample data — inventory, orders, internal operations. They are a starting point to adapt to your business. See [services ↓](#03--servicesdb).
 
 <table>
   <tr>
@@ -146,51 +146,35 @@ Systems built for real business problems — inventory, orders, internal operati
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>One-off development</h3>
-      A system built to order — inventory, orders, internal tools,
-      reporting — scoped and delivered as a single project.
+    <td width="33%" valign="top">
+      <h3>Systems integration</h3>
+      Online store, MercadoLibre, ERP, invoicing, spreadsheets and supplier APIs — stock, prices and orders in sync.
+      <br/><br/><b>From USD 800 · 2–4 weeks</b>
     </td>
-    <td width="50%" valign="top">
-      <h3>Monthly support (subscription)</h3>
-      Ongoing maintenance and incremental development on a
-      system already in production, billed monthly.
+    <td width="33%" valign="top">
+      <h3>Process automation</h3>
+      Reports that arrive on their own, sales reconciliation, low-stock and failure alerts, automatic order loading.
+      <br/><br/><b>From USD 350 · 1–2 weeks</b>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Applied AI</h3>
+      Assistants that answer with your real catalog and prices, invoice and PDF data extraction, email classification.
+      <br/><br/><b>From USD 900 · 2–4 weeks</b>
     </td>
   </tr>
 </table>
 
-What goes into either one:
+**How it works:** free 30-minute assessment → one-page proposal in 48 h → fixed-price implementation → optional monthly plan.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Backend Development</h3>
-      REST APIs, business logic, database integrations,
-      application architecture and backend services.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Software & Web Applications</h3>
-      Internal tools, management systems and custom
-      applications focused on business processes.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Data Engineering & BI</h3>
-      SQL, ETL processes, data warehouses, dashboards,
-      reporting and data analysis.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Integrations & Automation</h3>
-      API integrations, Python scripts, system connectivity
-      and workflow automation.
-    </td>
-  </tr>
-</table>
+| Monthly plan | Includes | Price |
+| --- | --- | --- |
+| Basic | Monitoring, bug fixes, up to 2 h of adjustments | USD 150/month |
+| Pro | Basic + 6 h of improvements + 24 business-hour response | USD 350/month |
+| Tech partner | 15 h/month, one new automation per month, monthly review | USD 700/month |
 
 <div align="center">
 
-**[Talk about your project ↓](#07--contactapi)**
+**[Book a free assessment ↓](#07--contactapi)**
 
 </div>
 
@@ -257,12 +241,12 @@ What goes into either one:
 ## 06 / CURRENT.FOCUS
 
 ```text
-[01] Backend application architecture
+[01] Systems integration and process automation
 [02] REST API design and development
 [03] Python, Java and SQL
 [04] Docker and Linux infrastructure
 [05] Database performance and reliability
-[06] Software integrations and automation
+[06] Applied AI on business data
 ```
 
 ---
@@ -271,17 +255,17 @@ What goes into either one:
 
 <div align="center">
 
-### Have a project in mind?
+### Which process takes your team the most time?
 
-Open for one-off development and monthly support — backend
-systems, internal tools, data and automation projects.
+Tell me which systems you use and what you do by hand today.
+I'll reply within 24 business hours to set up a free 30-minute assessment.
 
-**Tell me what you're trying to solve.**
+**Uruguay · Argentina · Chile — Spanish and English (written).**
 
 [![Website](https://img.shields.io/badge/MATUDEV.COM-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matudev.com/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
 [![Email](https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopeznunezmati@gmail.com)
 
-<sub>Designed with a focus on clarity, simplicity and useful software.</sub>
+<sub>Integrations · Automation · Applied AI — matudev.com</sub>
 
 </div>

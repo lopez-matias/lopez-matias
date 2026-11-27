@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f19,100:273449&text=MATÍAS%20LÓPEZ&fontColor=ffffff&fontSize=44&fontAlignY=39&desc=INTEGRATIONS%20%7C%20AUTOMATION%20%7C%20APPLIED%20AI&descAlignY=61&descSize=17&descColor=cbd5e1" width="100%" alt="Matías López - Integrations, automation and applied AI" />
+<img src="assets/banner.png" width="100%" alt="Matías López — Integraciones, automatización e IA" />
 
 ### I connect business systems and automate repetitive work.
 
@@ -8,9 +8,9 @@ Integrations, process automation and applied AI for small and mid-sized business
 
 **Conecto sistemas y automatizo el trabajo repetitivo de pymes en Uruguay, Argentina y Chile.**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matudev.com/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
-[![Email](https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopeznunezmati@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=FF6A00)](https://www.matudev.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6A00)](https://www.linkedin.com/in/lopez-matias/)
+[![Email](https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF6A00)](mailto:lopeznunezmati@gmail.com)
 
 </div>
 
@@ -182,31 +182,16 @@ Live systems you can try with sample data — inventory, orders, internal operat
 
 ## 04 / STACK.INI
 
-<div align="center">
+🟧 in production · ⬜ learning
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java, JavaScript" />
-
-<br/>
-
-### Backend & Web
-
-<img src="https://skillicons.dev/icons?i=fastapi,spring,react,html,css&theme=dark" alt="FastAPI, Spring, React, HTML, CSS" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, SQLite" />
-
-<br/>
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github,githubactions,vscode&theme=dark" alt="Docker, Linux, Windows, Git, GitHub, GitHub Actions, VS Code" />
-
-<br/>
-
-</div>
+| Area | Tools |
+| --- | --- |
+| **Integration & APIs** | ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6A00?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-FF6A00?style=flat-square) ![Python · FastAPI](https://img.shields.io/badge/Python%20%C2%B7%20FastAPI-FF6A00?style=flat-square) ![Java · Spring Boot](https://img.shields.io/badge/Java%20%C2%B7%20Spring%20Boot-FF6A00?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-FF6A00?style=flat-square) ![MuleSoft Anypoint](https://img.shields.io/badge/MuleSoft%20Anypoint-EBE9E3?style=flat-square) ![MercadoLibre · Tiendanube · Shopify APIs](https://img.shields.io/badge/MercadoLibre%20%C2%B7%20Tiendanube%20%C2%B7%20Shopify%20APIs-EBE9E3?style=flat-square) |
+| **Automation & ETL** | ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=flat-square) ![Make](https://img.shields.io/badge/Make-FF6A00?style=flat-square) ![Power Automate](https://img.shields.io/badge/Power%20Automate-FF6A00?style=flat-square) ![Pentaho PDI](https://img.shields.io/badge/Pentaho%20PDI-FF6A00?style=flat-square) ![SSIS](https://img.shields.io/badge/SSIS-FF6A00?style=flat-square) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-FF6A00?style=flat-square) ![Zapier](https://img.shields.io/badge/Zapier-EBE9E3?style=flat-square) |
+| **Applied AI** | ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-FF6A00?style=flat-square) ![Claude API](https://img.shields.io/badge/Claude%20API-FF6A00?style=flat-square) ![Ollama (local LLMs)](https://img.shields.io/badge/Ollama%20%28local%20LLMs%29-FF6A00?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-EBE9E3?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-EBE9E3?style=flat-square) ![Document extraction (OCR + LLM)](https://img.shields.io/badge/Document%20extraction%20%28OCR%20%2B%20LLM%29-EBE9E3?style=flat-square) |
+| **Data & BI** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-FF6A00?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF6A00?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-FF6A00?style=flat-square) ![SSAS](https://img.shields.io/badge/SSAS-FF6A00?style=flat-square) ![Power BI · DAX](https://img.shields.io/badge/Power%20BI%20%C2%B7%20DAX-FF6A00?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-EBE9E3?style=flat-square) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-FF6A00?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FF6A00?style=flat-square) ![Git · GitHub Actions](https://img.shields.io/badge/Git%20%C2%B7%20GitHub%20Actions-FF6A00?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-FF6A00?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-EBE9E3?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-EBE9E3?style=flat-square) |
+| **CRM & ecosystems** | ![ERP (stock, invoicing)](https://img.shields.io/badge/ERP%20%28stock%2C%20invoicing%29-FF6A00?style=flat-square) ![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-FF6A00?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-EBE9E3?style=flat-square) ![Odoo](https://img.shields.io/badge/Odoo-EBE9E3?style=flat-square) ![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-EBE9E3?style=flat-square) |
 
 ---
 
@@ -262,9 +247,9 @@ I'll reply within 24 business hours to set up a free 30-minute assessment.
 
 **Uruguay · Argentina · Chile — Spanish and English (written).**
 
-[![Website](https://img.shields.io/badge/MATUDEV.COM-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matudev.com/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopez-matias/)
-[![Email](https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopeznunezmati@gmail.com)
+[![Website](https://img.shields.io/badge/MATUDEV.COM-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=FF6A00)](https://www.matudev.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6A00)](https://www.linkedin.com/in/lopez-matias/)
+[![Email](https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF6A00)](mailto:lopeznunezmati@gmail.com)
 
 <sub>Integrations · Automation · Applied AI — matudev.com</sub>
 
